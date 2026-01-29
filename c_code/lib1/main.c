@@ -96,6 +96,9 @@ int main()
 
 	list_display(head,print);
 
+
+	printf("%ld\n",sizeof(LIST));
+
 	list_destroy(head);
 
 	return 0;
