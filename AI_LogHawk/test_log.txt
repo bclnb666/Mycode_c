@@ -1,0 +1,10 @@
+这是系统启动的第一行日志：System Boot...
+警告：检测到非法IP登录尝试！
+正常：User Tom login success.
+错误：Database connection timeout!
+心跳：Network status is OK.
+随便写点什么来测试多进程并发抢占数据1
+随便写点什么来测试多进程并发抢占数据2
+随便写点什么来测试多进程并发抢占数据3
+随便写点什么来测试多进程并发抢占数据4
+结束：Shutting down safely...

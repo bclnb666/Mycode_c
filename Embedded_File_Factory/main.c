@@ -4,7 +4,7 @@
 * mail:         bamon1026@gmail.com
 * Created Time: 2026年03月20日 星期五 14时25分40秒
 ***********************************************************/
-#include "mycp.h"
+#include <mycp.h>
 
 int main(int argc, char *argv[]) {
     

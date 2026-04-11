@@ -4,7 +4,7 @@
 * mail:         bamon1026@gmail.com
 * Created Time: 2026年03月20日 星期五 14时21分51秒
 ***********************************************************/
-#include "mycp.h"
+#include <mycp.h>
 
 int file_cp(const char *src, const char *dest)
 {
